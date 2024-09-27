@@ -1,4 +1,38 @@
+let express = require('express');
+let app = express();
+
+console.log("Hellow World");
+
+app.get("Hello Express");
 
 
-console.log("Hello World")
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ module.exports = app;
